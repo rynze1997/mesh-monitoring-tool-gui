@@ -1,2 +1,2 @@
-# mesh-monitoring-tool-gui
-Master Thesis - Mesh Network Monitoring tool GUI
+# meshj_netwrok_monitoring_tool
+Mesh Network Monitoring tool GUI for Master Thesis
